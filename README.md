@@ -1,6 +1,6 @@
 # JEI Search Alias
 
-MinecraftのJEIに検索用のエイリアスを追加するクライアントサイドModです。
+MinecraftのJEIに検索エイリアスを追加するクライアントサイドModです。
 <br>
 ## 対応環境
 
